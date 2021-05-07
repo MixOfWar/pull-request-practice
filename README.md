@@ -16,4 +16,4 @@ THE LIST:
 Chris Boydstun - Instructor
 Mike A - Facilitator
 Mia Peace - Facilitator 
-(Add your name here)
+Zak Reid - Student
